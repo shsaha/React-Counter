@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Counter = (props) => {
+const Counter = props => {
 
     const { count, increaseCount, decreaseCount, reset } = props
     return (
